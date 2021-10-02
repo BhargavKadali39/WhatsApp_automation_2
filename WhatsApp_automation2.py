@@ -34,5 +34,5 @@ drinks_break()
 
 my_writing = input('Enter data here that you want to be displayed as handwriting. (you can use slash n and other commands for tab space and new line etc)')
 pk.text_to_handwriting(my_writing)
+print('Check the folder where this program is save for a ascii file that resembles the given pic!')
 
-drinks_break()
