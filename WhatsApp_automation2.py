@@ -26,3 +26,11 @@ info_search_key = str(input('Enter search keyword for relevant information '))
 pk.info(info_search_key)
 
 drinks_break()
+
+pk.image_to_ascii_art(r"Enter your path here")
+print('Check the folder where this program is save for a ascii file that resembles the given pic!')
+
+drinks_break()
+
+
+drinks_break()
