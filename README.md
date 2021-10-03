@@ -23,7 +23,11 @@ tab_close keep this True if you want no additional WhatsApp tab left after sendi
         
 Here yt_search_key is a user defined variable, insert the search key inside it for results in new tab.
 
-        search(google_search_key)
+        pywhatkit.search(google_search_key)
         
 google_search_key is also a user defined variable and have above properties.
 
+        pywhatkit.info(info_search_key)
+        
+
+info_search_key consists of the topic that you want relevant information about and have properties as above.
