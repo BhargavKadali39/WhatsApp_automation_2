@@ -45,6 +45,8 @@ In the place of path give the actual path of your image that you want to convert
 
 here is a beautiful view of a car on hillsides
 
+*zoom out a little for better view*
+
         $$$%%$$$$@&@@@%%***%%%*%%%%%%**!************!!!*%!!!*%%%%*!!!*%%!!!!!!!!!!!!!!!!
         $$$$%%$$$@&&&@$%%****!**%%***!!!!*********!:::!**::!!*%%%!::!*%%!:!!!!!!!!!!!!!!
         %%%%$$$@$@@@@$%%%***!!!!!!****!!!***%%%%%*!!!!!!:::!!!*%*:::!*%*::!!!!!!!!!!!!!:
