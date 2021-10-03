@@ -31,3 +31,7 @@ google_search_key is also a user defined variable and have above properties.
         
 
 info_search_key consists of the topic that you want relevant information about and have properties as above.
+
+        pywhatkit.image_to_ascii_art(r"Path")
+        
+Here in the place of path give the actual path of your image that you want to convert into ascii_image.
