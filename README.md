@@ -19,3 +19,7 @@ caption is the text message,
 Set wait time here to delay the message to your requirements.(wait time applies after you run the code)
 tab_close keep this True if you want no additional WhatsApp tab left after sending the message!
 
+        pywhatkit.playonyt(yt_search_key)
+        
+Here yt_search_key is a user defined variable, insert the search key inside it for results in new tab.
+
