@@ -3,6 +3,8 @@ WhatsApp automation using python module.
 
 This repo shows how to automate most of your works in WhatsApp.
 
+<h2>NOTE</h2> In order to make this module work the pc/laptop should  be in active state i.e not turned off and internet is mandatory.  
+
 The name of the module is pywhatkit and this is the command to install it 
 
     pip install pywhatkit
