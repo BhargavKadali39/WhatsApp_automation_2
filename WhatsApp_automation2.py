@@ -1,3 +1,5 @@
+# I'll be very happy to accept any issues found in the code and also help me fixing it if possible.
+
 import pywhatkit as pk
 from time import sleep
 
