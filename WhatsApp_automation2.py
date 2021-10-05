@@ -1,3 +1,5 @@
+# This repo have some flaws please help us fix it if you found any.
+
 import pywhatkit as pk
 from time import sleep
 
